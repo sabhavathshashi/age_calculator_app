@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#ff0000"                # 🔴 Blood red for buttons, sliders, etc.
+backgroundColor = "#ffffff"             # ⚪ Pure white background
+secondaryBackgroundColor = "#ffe5e5"    # 🔴 Soft red tint boxes (light contrast)
+textColor = "#ff0000"                   # 🔴 Red text — bold and loud
+font = "sans serif"                     # Clean modern font
